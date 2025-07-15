@@ -28,7 +28,7 @@ Former Mathematics educator turned Full Stack Developer with a passion for creat
 |---------|-------------|--------------|
 | **[Transcendence](https://github.com/araiteb1/transcendence)** | Online multiplayer game with real-time chat | React, Django, WebSockets |
 | **[RAG ChatBot](https://github.com/araiteb1/RagChatBot)** | AI chatbot for PDF document queries | Gemini API, LangChain, ChromaDB |
-| **[EveStyle](https://github.com/araiteb1/evestyle)** | Women's fashion e-commerce platform | Next.js, Django, Stripe |
+| **[YumeShop](https://github.com/araiteb1/evestyle)** | Women's fashion e-commerce platform | Next.js, Django, Stripe |
 | **[StudentSync](https://github.com/araiteb1/studentsync)** | Student engagement tracking system | Next.js, Nest.js |
 ## 📚 Education
 
